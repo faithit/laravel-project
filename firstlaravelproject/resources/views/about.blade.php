@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('title','About')
+@section('page-title','The about page')
 @section('content')
     <h1>About page</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit quo beatae minima qui quasi excepturi provident labore veniam! Quod hic commodi alias, tempora dolor asperiores quos minus velit voluptatibus veniam.</p>
